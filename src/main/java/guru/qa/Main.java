@@ -4,6 +4,6 @@ public class Main {
 
   private static String msg = "Hello and welcome qa guru!!!!!"
   public static void main(String[] args) {
-        System.out.printf(msg);
+        System.out.println(msg);
         }
     }
